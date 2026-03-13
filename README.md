@@ -1,25 +1,44 @@
 <h1 align="center">Hi there, I'm Nikhil Chavan 👋</h1>
 
-<h2 align="center">Full Stack Developer</h2>
+<h3 align="center">Software Engineer | Full Stack MERN Developer</h3>
 
----
-
-## 🚀 About Me
-
-- 💻 Building **full-stack web applications**
-- ⚛️ Working with **React, Node.js, MongoDB**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🔧 Creating **REST APIs and scalable systems**
-- 🎯 Focused on solving **real-world problems**
-- 📚 Always learning new technologies
+<p align="center">
+Building scalable web applications and solving real-world problems using modern technologies.
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-chavan-795798256)
+<p align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:nikhilchavan4002@gmail.com)
+<a href="https://www.linkedin.com/in/nikhil-chavan-795798256/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nikchavan954@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Nikhil_Chavan/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://nikhil4002-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer specializing in **MERN Stack**
+- ⚛️ Building modern **React & Node.js applications**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🔧 Developing **REST APIs and scalable backend systems**
+- 🌍 Passionate about solving **real-world problems with software**
 
 ---
 
@@ -60,10 +79,10 @@
 ## 📌 Interests
 
 - 🌐 Web Development
-- 🤖 AI Integration in Web Apps
+- 🤖 AI Integration in Web Applications
 - 🧠 Problem Solving
-- 🚀 Building scalable software
+- 🚀 Building scalable software systems
 
 ---
 
-⭐ Always learning and building.
+⭐ Always learning and building as a Software Engineer.
