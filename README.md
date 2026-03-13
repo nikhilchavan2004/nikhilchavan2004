@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Nikhil Chavan 👋</h1>
-
-<h3 align="center">Software Engineer | Full Stack MERN Developer</h3>
+<h1 align="center">
+  Hi 👋, I'm Nikhil Chavan
+</h1>
 
 <p align="center">
-Building scalable web applications and solving real-world problems using modern technologies.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;DSA+Problem+Solver;Building+Impactful+Software"/>
 </p>
 
 ---
@@ -25,64 +25,78 @@ Building scalable web applications and solving real-world problems using modern 
 </a>
 
 <a href="https://nikhil4002-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 Full Stack Developer specializing in **MERN Stack**
-- ⚛️ Building modern **React & Node.js applications**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🔧 Developing **REST APIs and scalable backend systems**
-- 🌍 Passionate about solving **real-world problems with software**
+<p align="center">
+
+💻 Full Stack Developer specializing in **MERN Stack**
+
+⚛️ Building modern **React + Node.js applications**
+
+🧠 Practicing **Data Structures & Algorithms**
+
+🌍 Interested in **Backend Systems & AI Integration**
+
+🚀 Passionate about solving **real-world problems**
+
+</p>
 
 ---
 
-## 🛠 Tech Arsenal
+# ⚔️ Tech Arsenal
 
 ### 💻 Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,js,python,java"/>
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Magic
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,redux"/>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Power
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### 🗄 Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 </p>
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
 </p>
 
 ---
 
-## 📌 Interests
+# ✨ Interests
 
-- 🌐 Web Development
-- 🤖 AI Integration in Web Applications
-- 🧠 Problem Solving
-- 🚀 Building scalable software systems
+<p align="center">
+
+🌐 Web Development  
+🤖 AI Integration  
+🧠 Problem Solving  
+🚀 Building Scalable Systems  
+
+</p>
 
 ---
 
+<p align="center">
 ⭐ Always learning and building as a Software Engineer.
+</p>
