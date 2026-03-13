@@ -1,82 +1,92 @@
 <h1 align="center">Hi 👋, I'm Nikhil Chavan</h1>
 <h3 align="center">Software Engineer | Full Stack MERN Developer</h3>
 
-<p align="center">
-Building scalable web applications and solving real-world problems using modern technologies.
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+---
+
+### 🚀 About Me
+
+- 💻 Full Stack Developer specializing in **MERN Stack**
+- 🧠 Solved **300+ DSA problems**
+- 🔧 Experienced in **REST APIs, scalable backend systems**
+- 🌱 Currently learning **System Design & AI integration**
+- ⚡ Passionate about building impactful software
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nikhil-chavan-795798256">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/nikhilchavan2004">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/>
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 🛠 Tech Stack
 
-- 💻 Full Stack Developer specializing in **MongoDB, Express.js, React.js, Node.js**
-- 🧠 Strong in **Data Structures & Algorithms (300+ problems solved)**
-- 🔧 Experienced in building **RESTful APIs, real-time applications, and scalable backend systems**
-- 🌍 Interested in **backend engineering, system design, and AI-powered applications**
+<p align="left">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,redux"/>
 
-## 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=cpp,java,python"/>
 
-### Frontend
-HTML5 • CSS3 • JavaScript • React.js • Redux Toolkit • Tailwind CSS
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
 
-### Backend
-Node.js • Express.js • REST APIs • JWT Authentication
-
-### Databases
-MongoDB • MySQL • PostgreSQL
-
-### Programming Languages
-C++ • JavaScript • Python • Java
-
-### Tools
-Git • GitHub • Postman • Insomnia • VS Code • Figma
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilchavan2004&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilchavan2004&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilchavan2004&show_icons=true&theme=tokyonight"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilchavan2004&layout=compact&theme=tokyonight"/>
 
-## 🔥 Featured Projects
-
-### Real-Time Chat Application
-- MERN Stack chat application with **JWT authentication**
-- Real-time messaging with typing indicators
-- Image upload using **Cloudinary**
-
-### Zeta Blogs Platform
-- Full blogging platform with **Google OAuth**
-- CRUD operations with image uploads
-- State management using **Redux Toolkit**
-
-### Finxl Business School Website
-- Full-stack website with **admission portal**
-- Role-based authentication system
-- Responsive UI with **React + Tailwind**
+</p>
 
 ---
 
-## 🌐 Connect With Me
+### 🔥 GitHub Streak
 
-LinkedIn  
-www.linkedin.com/in/nikhil-chavan-795798256  
+<p align="center">
 
-LeetCode  
-[https://leetcode.com/](https://leetcode.com/u/Nikhil_Chavan/)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilchavan2004&theme=tokyonight"/>
 
-GitHub  
-https://github.com/nikhilchavan2004
-
-Portfolio 
-https://nikhil4002-portfolio.netlify.app/
-
+</p>
 
 ---
 
-⭐ *Always learning, building, and improving as a Software Engineer.*
+### 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+### 👀 Profile Views
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=nikhilchavan2004&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+⭐ Always building, learning and improving as a Software Engineer.
